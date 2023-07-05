@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-weight: 600;
+    font-family: sans-serif;
+    background-color: rebeccapurple;
+    border-radius: 10px 12px 8px;
+    color: aliceblue;
+    margin: 100px 450px 100px 250px;
+    padding: 25px;
+    
+
+}
+div{
+    text-align: inherit;
+    font-weight: 400;
+    font-family: sans-serif;
+    background-color: rgb(122, 65, 175);
+    color: aliceblue;
+    border: 10px;
+    margin: 100px 450px 100px 250px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 100px;
+}
+img{
+    margin: 100px 450px 100px 250px;
+    padding: 25px;
+    background-color: rgb(122, 65, 175);
+    border-radius: 10px;
+    margin-bottom: 450px;
+    
+}
+body{
+    background-image: url(forest-gf5b85c54e_1280.jpg);
+
+}
+footer{
+    text-align: right;
+    color: aliceblue;
+}
+footer ,a{
+    color: aliceblue;
+}
